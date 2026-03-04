@@ -1,0 +1,5 @@
+{
+  "name": "HIDROREMIND",
+  "description": "A smart hydration tracker and reminder app that helps you maintain optimal water intake based on your personal profile.",
+  "requestFramePermissions": ["notifications"]
+}
